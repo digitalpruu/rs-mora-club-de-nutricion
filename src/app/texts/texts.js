@@ -27,7 +27,7 @@ const textos = {
         address: "Dirección del emprendimiento",
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/SOMORA",
+        facebook: "https://www.facebook.com/profile.php?id=61566563191695&mibextid=ZbWKwL                              ",
         instagram: "https://www.instagram.com/R_SMORA",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
         website: "https://rsmoraclubdenutricion.vercel.app/"
