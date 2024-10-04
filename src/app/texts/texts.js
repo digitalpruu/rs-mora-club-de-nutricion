@@ -24,7 +24,7 @@ const textos = {
             p1: "Club de bienestar",
             p2: ""
         },
-        address: "Dirección del emprendimiento",
+        address: "",
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/profile.php?id=61566563191695&mibextid=ZbWKwL",
